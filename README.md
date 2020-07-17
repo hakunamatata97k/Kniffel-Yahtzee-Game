@@ -26,7 +26,7 @@ the lastest java version can be installed as follows:
         sudo apt install oracle-java14-installer
         
 - #### for windows users: 
- java can be downloade as `.exe` format form their website [java Download](https://github.com/hakunamatata97k/Kniffel-Yahtzee-Game/blob/master/src/Kniffel/Gui/GameWindow.java)
+ java can be downloade as `.exe` format form their website [java Download]
 
 
 ## Installation:
@@ -36,7 +36,7 @@ the lastest java version can be installed as follows:
  1. clone the current repo using the following command:
  
          git clone https://github.com/hakunamatata97k/Kniffel-Yahtzee-Game.git [opt folder-path]
-    The game can be started by running the [GameWindow.java]
+    The game can be started by running the [GameWindow.java](https://github.com/hakunamatata97k/Kniffel-Yahtzee-Game/blob/master/src/Kniffel/Gui/GameWindow.java)
 2. download the `.jar` file and run it via the following: 
         
     java -jar --enable-preview Java_Hausarbeit_Kniffel.jar
