@@ -39,7 +39,7 @@ the lastest java version can be installed as follows:
     The game can be started by running the [GameWindow.java](https://github.com/hakunamatata97k/Kniffel-Yahtzee-Game/blob/master/src/Kniffel/Gui/GameWindow.java)
 2. download the `.jar` file and run it via the following: 
         
-    java -jar --enable-preview Java_Hausarbeit_Kniffel.jar
+          java -jar --enable-preview Java_Hausarbeit_Kniffel.jar
 
 
 
